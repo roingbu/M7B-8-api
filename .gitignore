@@ -30,3 +30,4 @@ __pycache__/
 venv/
 .vscode/
 miniconda3/
+.git_disabled/
