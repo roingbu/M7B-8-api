@@ -1,0 +1,32 @@
+# 数据集
+*.csv
+*.json
+*.jsonl
+*.txt
+data/
+dataset/
+
+# 训练模型与权重
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.h5
+checkpoints/
+models/
+weights/
+
+# 缓存与日志
+logs/
+runs/
+wandb/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# 环境与隐私
+.env
+venv/
+.vscode/
+miniconda3/
